@@ -1,0 +1,17 @@
+16.Deployment Backend
+
+    https://render.com/
+
+    https://dashboard.render.com/select-repo?type=web
+        En Public Git Repository -> https://github.com/GabrielDS2118/ImageGeneration
+
+    https://dashboard.render.com/web/new
+        Name -> image-generation
+        Root Directory -> server
+        Start Command -> npm run start
+    
+    https://dashboard.render.com/web/srv-cfojpdarrk0fd9pftrr0/env
+        Poner cada una de las variables de entorno
+    
+    Logs
+        Deploy -> Deploy last commit
